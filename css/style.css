@@ -316,7 +316,7 @@ span {
     border-bottom:1rem solid var(--main-color) ;
     flex: 1 1 25rem;
     border-radius: 35px;
-    box-shadow: 0 0 .8rem rgba(228, 27, 0, 0.75);
+    box-shadow: 0 0 .8rem rgba(38, 228, 0, 0.75);
     transition: .5s ease;
 }
 
