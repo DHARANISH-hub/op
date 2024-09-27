@@ -611,7 +611,7 @@ form .input-feild input, textarea {
     border: 1px solid var(--main-color);
     border-radius: 5px;
     color: var(--text-color);
-    box-shadow: 0 0 0.9rem rgba(0, 0, 0, 0.75);
+    box-shadow: 0 0 0.9rem rgba(6, 22, 248, 0.75);
 }
 
 form .input-feild input::placeholder, textarea::placeholder{
